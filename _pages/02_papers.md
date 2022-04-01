@@ -1,10 +1,9 @@
 ---
 # layout: page
-# title: Papers
+title: Papers
 permalink: /02_papers/
 # image: 08.jpg
 ---
-***
 * [J06] D. Kim, D. Kwon, L. Park, J. Kim, and S. Cho, "Multi-Scale LSTM-based Deep Learning for Very-Short-Term Photovoltaic Power Generation Forecasting in Smart City Energy Management," IEEE Systems Journal, vol. 15, no. 1, pp.346-354, March 2021. 
 
 * [J05] Y. Lee, S. Jeong, A. Masood, L. Park, N.-N. Dao, and S. Cho, "Trustful Resource Management for Service Allocation in Fog-Enabled Intelligent Transportation Systems," IEEE Access, vol. 8, 147313-147322, August 2020. 
