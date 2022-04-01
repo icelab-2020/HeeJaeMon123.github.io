@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: Papers
 permalink: /02_papers/
 # image: 08.jpg
