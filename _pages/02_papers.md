@@ -1,6 +1,6 @@
 ---
 # layout: page
-title: Papers
+# title: Papers
 permalink: /02_papers/
 # image: 08.jpg
 ---
