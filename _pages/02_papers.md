@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Papers
-permalink: /styleguide/
+permalink: /02_papers/
 image: 08.jpg
 ---
 
