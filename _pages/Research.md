@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Members
 permalink: /about/
 image: # 01.jpg
 ---
