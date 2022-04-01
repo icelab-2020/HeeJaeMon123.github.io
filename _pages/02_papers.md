@@ -9,85 +9,14 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
-### Headings by default:
+* [J06] D. Kim, D. Kwon, L. Park, J. Kim, and S. Cho, "Multi-Scale LSTM-based Deep Learning for Very-Short-Term Photovoltaic Power Generation Forecasting in Smart City Energy Management," IEEE Systems Journal, vol. 15, no. 1, pp.346-354, March 2021. 
 
-# This is the default title
-## This is the default title
-### This is the default title
-#### This is the default title
-##### This is the default title
-###### This is the default title
+* [J05] Y. Lee, S. Jeong, A. Masood, L. Park, N.-N. Dao, and S. Cho, "Trustful Resource Management for Service Allocation in Fog-Enabled Intelligent Transportation Systems," IEEE Access, vol. 8, 147313-147322, August 2020. 
 
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
+* [J04] L. Park, Y. Yoon, S. Cho, and S. Choi, "Prosumer Energy Management Considering Contract with Consumers under Progressive Pricing Policy," IEEE Access, vol. 8, pp. 115789 - 115799,  June 2020. 
 
-***
+* [J03] L. Park, C. Lee, W. Na, S. Choi, and S. Cho, "Two-Stage Computation Offloading Scheduling Algorithm for Energy-Harvesting Mobile Edge Computing," Energies, vol. 12, November 2019. 
 
-### Lists
+* [J02] L. Park, C. Lee, J. Kim, A. Mohaisen, and S. Cho, "Two-Stage IoT Device Scheduling with Dynamic Programming for Energy Internet Systems," IEEE Internet of Things Journal,  vol. 6, no, 5,  pp. 8782-8791, October 2019. 
 
-#### Ordered list example:
-
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-***
-
-#### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
-***
-
-### Quotes
-
-> Coming together is a beginning; keeping together is progress; working together is success. — Edward Everett Hale
-
-***
-
-### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-### Videos
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
-
-***
-
-### Images
-
-![]({{site.baseurl}}/images/09.jpg)
-*Backyard*
-
-***
+* [J01] W. Na, S. Jang, Y. Lee, L. Park, N.-N. Dao, and S. Cho, "Frequency Resource Allocation and Interference Management in Mobile Edge Computing for an Internet of Things System," IEEE Internet of Things Journal, vol. 6, no. 3, pp. 4910-4920, June 2019.  
