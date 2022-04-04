@@ -10,7 +10,7 @@ description: ICElab homepage
 author:
   name: Alex Rodriguez
   image: logo.png
-  say-hello: Hello, <strong>ICE(<strong>I</strong>ntelligent <strong>C</strong>ommunication, <strong>C</strong>omputing, and <strong>E</strong>nergy Lab<br><br>) lab</strong> is looking for awesome undergraduate and graduate students.
+  say-hello: Hello, <strong>ICE</strong>(<strong>I</strong>ntelligent <strong>C</strong>ommunication, <strong>C</strong>omputing, and <strong>E</strong>nergy Lab) <strong>lab</strong> is looking for awesome undergraduate and graduate students.
             
   bio: 
       If you are interested in <strong>intelligent computing</strong>, <strong>communications</strong>, <strong>IoT</strong> and <strong>smart grid networks</strong>, please join our lab as soon as possible!
