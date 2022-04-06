@@ -1,5 +1,5 @@
 ---
-layout: page
+#layout: page
 #title: Research
 permalink: /00_research/
 #image: iot.jpg
