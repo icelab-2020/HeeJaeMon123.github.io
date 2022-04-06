@@ -25,3 +25,15 @@ permalink: /00_research/
 
 ![6g]({{site.baseurl}}/images/6g.jpg){: width="50%" height="50%"}  <div>**Next Generation Network**</div>  
 
+
+
+
+<table>
+  <tr>
+    <td>![6g]({{site.baseurl}}/images/6g.jpg){: width="50%" height="50%"}</td>
+    <td>**Next Generation Network**</td>
+  </tr>
+  <tr>
+    <td colspan="2">내용</td>
+  </tr>
+</table>
