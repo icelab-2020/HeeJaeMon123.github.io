@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+#title: Research
 permalink: /00_research/
 #image: iot.jpg
 ---
