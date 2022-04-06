@@ -14,7 +14,7 @@ permalink: /00_research/
 
 |    |     |
 |:---|:---:|
-| ![6g]({{site.baseurl}}/images/6g.jpg){: width="50%" height="50%"} | <center><b><span style="font-size:150%">Next Generation Network</span></b></center>  |
+| ![6g]({{site.baseurl}}/images/6g.jpg){: width="100%" height="100%"} | <center><b><span style="font-size:150%">Next Generation Network</span></b></center>  |
 
 
 
