@@ -23,7 +23,7 @@ permalink: /00_research/
 
 
 
-![6g]({{site.baseurl}}/images/6g.jpg){: width="50%" height="50%"}  <b><span style="color:white; font-size:150%">Next Generation Network</span></b>
+![6g]({{site.baseurl}}/images/6g.jpg){: width="50%" height="50%"}  <b><span style="color:black; font-size:150%">Next Generation Network</span></b>
 
 
 
