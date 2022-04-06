@@ -30,7 +30,7 @@ permalink: /00_research/
 
 <table>
   <tr>
-    <td>![6g]({{site.baseurl}}/images/6g.jpg){: width="50%" height="50%"}</td>
+    <td><img src = https://github.com/HeeJaeMon123/HeeJaeMon123.github.io/blob/main/images/6g.jpg width="30%" height="30%"></td>
     <td>**Next Generation Network**</td>
   </tr>
   <tr>
