@@ -1,10 +1,9 @@
 ---
-#layout: page
-#title: Research
+layout: page
+title: Research
 permalink: /00_research/
 #image: iot.jpg
 ---
-
 |    |   <img width=500/>   |
 |:---|:---:|
 | ![iot]({{site.baseurl}}/images/iot.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">Internet of Things</span></b>  |
