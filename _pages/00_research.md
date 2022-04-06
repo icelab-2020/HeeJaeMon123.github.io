@@ -22,5 +22,5 @@ permalink: /00_research/
 
 
 | ![6g]({{site.baseurl}}/images/6g.jpg){: width="50%" height="50%"} | 6G | 
-|---|---|
+|:---|---|
 | v1 v2 |
