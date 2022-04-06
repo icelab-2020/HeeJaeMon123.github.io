@@ -12,11 +12,11 @@ permalink: /00_research/
 ![smartgrid]({{site.baseurl}}/images/smartgrid.jpg){: width="50%" height="50%"}
 <div class = "smartgrid_">The smart grid is an intelligent power grid system that incorporates information and communication technology into the production, transportation and consumption processes of electricity and increases efficiency through interaction between suppliers and consumers.</div>
 
-
-
-| ![6g]({{site.baseurl}}/images/6g.jpg){: width="50%" height="50%"} | **Next Generation Network**  |
+|    |     |
 |:---|:---:|
-|---|---|
+| ![6g]({{site.baseurl}}/images/6g.jpg){: width="50%" height="50%"} | **Next Generation Network**  |
+
+
 
 <div class = "6g_">In recent years, we have experienced a tremendous evolution of information and communication technology with major innovations in mobile networks. The wireless data rates have doubled every 18 months over the last three decades and the wireless terabit-per-second (Tbps) links will become a reality soon. To support current and emerging mobile services, we need to move to next generation network (beyond 5G) .</div>
 
