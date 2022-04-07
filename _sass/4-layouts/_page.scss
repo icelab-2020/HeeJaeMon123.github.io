@@ -1,5 +1,5 @@
 .page-title-box {
-  padding: 1px 0;
+  padding: 5px 0;
   border-top: 1px solid $light-gray;
 
   .page-title {
@@ -9,7 +9,7 @@
   }
 
   @media only screen and (max-width: $mobile) {
-    padding: 40px 0;
+    padding: 10px 0;
 
     .page-title {
       font-size: 47px;
@@ -36,7 +36,7 @@
 }
 
 .page {
-  margin: 80px auto;
+  margin: 10px auto;
 
   img {
     margin: 30px 0;
