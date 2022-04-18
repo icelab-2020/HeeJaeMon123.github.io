@@ -28,4 +28,4 @@ permalink: /00_research/
 | ![6g]({{site.baseurl}}/images/6g.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">Next Generation Network</span></b>  |
 
 
-<div class = "6g_">In recent years, we have experienced a tremendous evolution of information and communication technology with major innovations in mobile networks. The wireless data rates have doubled every 18 months over the last three decades and the wireless terabit-per-second (Tbps) links will become a reality soon. To support current and emerging mobile services, we need to move to next generation network (beyond 5G) .</div>
+<div class = "6g_">In recent years, we have experienced a tremendous evolution of information and communication technology with major innovations in mobile networks. The wireless data rates have doubled every 18 months over the last three decades and the wireless terabit-per-second (Tbps) links will become a reality soon. To support current and emerging mobile services, we need to move to next generation network (beyond 5G).</div>
