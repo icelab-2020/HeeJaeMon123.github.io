@@ -7,7 +7,7 @@ permalink: /01_members/
 
 <table>
   <tr>
-    <td>![iot]({{site.baseurl}}/images/iot.jpg){: width="100%" height="100%"}</td>
+    <td><img src = https://github.com/HeeJaeMon123/HeeJaeMon123.github.io/blob/main/images/icelab_logo.png width="30%" height="30%"></td>
     <td>**Next Generation Network**</td>
   </tr>
   <tr>
