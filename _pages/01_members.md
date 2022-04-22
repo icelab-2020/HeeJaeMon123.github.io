@@ -9,7 +9,7 @@ permalink: /01_members/
 
 |    |  <img width=500/>  |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/hj.jpg){: width="50%" height="50%"} | <b><span style="font-size:250%">박희재</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering |
+| ![iot]({{site.baseurl}}/images/hj.jpg){: width="50%" height="50%"} | <b><span style="font-size:250%">박희재(Heejae Park)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering |
 
 ---------------------
 
@@ -19,15 +19,3 @@ permalink: /01_members/
 | ![iot]({{site.baseurl}}/images/hj.jpg){: width="50%" height="50%"} | <b><span style="font-size:300%">Internet of Things</span></b>  |
 
 ---------------------
-
-
-
-
-***
-
-#### Austin scenester...
-<small>2008 - 2018</small>
-
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
-
-
