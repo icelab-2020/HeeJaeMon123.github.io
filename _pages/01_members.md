@@ -5,7 +5,7 @@ permalink: /01_members/
 #image: 01.jpg
 ---
 
-| <img width=500/>   |    |
+| <img width=100/>   |    |
 |:---|:---:|
 | ![iot]({{site.baseurl}}/images/iot.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">Internet of Things</span></b>  |
 
