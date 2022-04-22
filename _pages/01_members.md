@@ -6,9 +6,12 @@ permalink: /01_members/
 ---
 <hr style="border:3px solid gray"> </hr>
 
+
 |    |  <img width=500/>  |
 |:---:|:---|
 | ![iot]({{site.baseurl}}/images/hj.jpg){: width="50%" height="50%"} | <b><span style="font-size:250%">박희재</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering |
+
+
 <hr style="border:3px solid gray"> </hr>
 
 
