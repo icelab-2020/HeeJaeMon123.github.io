@@ -5,7 +5,7 @@ permalink: /01_members/
 #image: 01.jpg
 ---
 
-
+<hr style="border:2px solid gray">
 
 |    |  <img width=500/>  |
 |:---|:---|
