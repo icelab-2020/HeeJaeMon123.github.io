@@ -4,23 +4,21 @@ title: Members
 permalink: /01_members/
 #image: 01.jpg
 ---
-<hr style="border:3px solid gray"> </hr>
+
 
 
 |    |  <img width=500/>  |
 |:---:|:---|
 | ![iot]({{site.baseurl}}/images/hj.jpg){: width="50%" height="50%"} | <b><span style="font-size:250%">박희재</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering |
 
-
-<hr style="border:3px solid gray"> </hr>
+<hr style="border:2px solid gray"> </hr>
 
 
 | <img width=100/>   |  ***  |
 |:---|:---:|
 | ![iot]({{site.baseurl}}/images/hj.jpg){: width="50%" height="50%"} | <b><span style="font-size:300%">Internet of Things</span></b>  |
 
-
-
+<hr style="border:2px solid gray"> </hr>
 
 <table>
   <tr>
