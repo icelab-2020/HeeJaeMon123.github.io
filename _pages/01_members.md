@@ -15,6 +15,6 @@ permalink: /01_members/
 
 | <img width=100/>   |    |
 |:---|:---:|
-| ![iot]({{site.baseurl}}/images/sw.jpg){: width=20px; height=20px} |  <b><span style="font-size:250%">위성률(Seongryool Wee)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  |
+| ![iot]({{site.baseurl}}/images/sw.jpg){: width="20"; height="20"} |  <b><span style="font-size:250%">위성률(Seongryool Wee)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  |
 
 ---------------------
