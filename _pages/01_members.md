@@ -5,6 +5,12 @@ permalink: /01_members/
 #image: 01.jpg
 ---
 
+| <img width=500/>   |    |
+|:---|:---:|
+| ![iot]({{site.baseurl}}/images/iot.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">Internet of Things</span></b>  |
+
+
+
 <table>
   <tr>
     <td><img src = https://github.com/HeeJaeMon123/HeeJaeMon123.github.io/blob/main/images/icelab_logo.png width="30%" height="30%"></td>
