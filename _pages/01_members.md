@@ -9,22 +9,22 @@ permalink: /01_members/
 
 | <img width=400/>   |    |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/hj.jpg){: width="50%" height="50%"} | <b><span style="font-size:250%">박희재(Heejae Park)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering |
+| ![iot]({{site.baseurl}}/images/hj.jpg){: width="50%" height="50%"} | <b><span style="font-size:250%">박희재(Heejae Park)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + E-MAIL   prkhj98@naver.com |
 
 ---------------------
 
 |    |  <img width=400/>  |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/hj.jpg){: width="184" height="248"} | <b><span style="font-size:250%">박희재(Heejae Park)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering |
+| ![iot]({{site.baseurl}}/images/hj.jpg){: width="184" height="248"} | <b><span style="font-size:250%">박희재(Heejae Park)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + E-MAIL   prkhj98@naver.com |
 
 ---------------------
 
 | <img width=200/>   |    |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:250%">위성률(Seongryool Wee)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  |
+| ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:250%">위성률(Seongryool Wee)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + E-MAIL   fbfbf1@naver.com |
 
 ---------------------
 
 |    | <img width=200/>   |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/jk.jpg){: width="184"; height="248"} | <b><span style="font-size:250%">김주안(Juan Kim)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  |
+| ![iot]({{site.baseurl}}/images/jk.jpg){: width="184"; height="248"} | <b><span style="font-size:250%">김주안(Juan Kim)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + E-MAIL   rlawndks0423@naver.com |
