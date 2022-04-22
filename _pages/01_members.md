@@ -11,26 +11,14 @@ permalink: /01_members/
 |:---|:---|
 | ![iot]({{site.baseurl}}/images/hj.jpg){: width="50%" height="50%"} | <b><span style="font-size:250%">박희재</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering |
 
-<hr style="border:2px solid gray"></hr>
+*******************
 
 
 | <img width=100/>   |    |
 |:---|:---:|
 | ![iot]({{site.baseurl}}/images/hj.jpg){: width="50%" height="50%"} | <b><span style="font-size:300%">Internet of Things</span></b>  |
 
-<hr style="border:2px solid gray"></hr>
-
-<table>
-  <tr>
-    <td><img src = https://github.com/HeeJaeMon123/HeeJaeMon123.github.io/blob/main/images/icelab_logo.png width="30%" height="30%"></td>
-    <td>**Next Generation Network**</td>
-  </tr>
-  <tr>
-    <td colspan="2">내용</td>
-  </tr>
-</table>
-
-
+*******************
 
 
 
