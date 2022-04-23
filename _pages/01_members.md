@@ -17,7 +17,7 @@ permalink: /01_members/
 
 |    |  <img width=400/>  |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/hj.jpg){: width="184" height="248"} | <b><span style="font-size:250%">박희재(Heejae Park)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + E-MAIL   prkhj98@naver.com |
+| ![iot]({{site.baseurl}}/images/tri.png){: width="184" height="248"} | <b><span style="font-size:250%">박희재(Heejae Park)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + E-MAIL   prkhj98@naver.com |
 
 <hr style="border:2px solid gray">
 
