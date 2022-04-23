@@ -12,6 +12,5 @@ You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You
 
 
 ![]({{ site.baseurl }}/images/07.jpg)
-*Minimalism*
 
 
