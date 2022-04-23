@@ -21,7 +21,7 @@ permalink: /01_members/
 
 <hr style="border:2px solid gray">
 
-##M.S. Course
+## M.S. Course
 
 |    |    |
 |:---|:---|
