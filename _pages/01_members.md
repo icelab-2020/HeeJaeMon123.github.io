@@ -37,7 +37,7 @@ permalink: /01_members/
 
 
 
-<-- 
+<!-- 
 |    |   |  <img width=225/>  |  <img width=225/>  |
 |:---|:---|:---|:---|
 | ![iot]({{site.baseurl}}/images/hj.jpg){: width="165" height="235"} | <b><span style="font-size:250%">김주안(Juan Kim)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + E-MAIL   rlawndks0423@naver.com |  |  |
