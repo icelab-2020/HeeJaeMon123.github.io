@@ -5,7 +5,7 @@ permalink: /01_members/
 #image: 01.jpg
 ---
 
-##Professor
+## Professor
 
 | <img width=400/>   |    |
 |:---|:---|
@@ -13,7 +13,7 @@ permalink: /01_members/
 
 <hr style="border:2px solid gray">
 
-##Post Doctor
+## Post Doctor
 
 |    |  <img width=400/>  |
 |:---|:---|
@@ -29,7 +29,7 @@ permalink: /01_members/
 
 <hr style="border:2px solid gray">
 
-##Bachelor Course
+## Bachelor Course
 
 |    |   |    |    |
 |:---|:---|:---|:---|
