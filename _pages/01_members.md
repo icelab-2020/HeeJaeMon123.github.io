@@ -14,11 +14,11 @@ permalink: /01_members/
 
 <hr style="border:2px solid gray">
 
-## Researcher
+## Research Professor
 
 |    |  <img width=400/>  |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/tri.png){: width="184" height="248"} | <b><span style="font-size:250%">박희재(Heejae Park)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + E-MAIL   prkhj98@naver.com |
+| ![iot]({{site.baseurl}}/images/tri.png){: width="184" height="248"} | <b><span style="font-size:250%">응웬트리하이(Nguyen Tri Hai)</span></b><br><br> + Seoul National University of Science and Technology (Seoultech)   <br> + Department of Computer Science & Engineering  <br> + E-MAIL   haint93@seoultech.ac.kr |
 
 <hr style="border:2px solid gray">
 
