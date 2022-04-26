@@ -1,0 +1,11 @@
+---
+layout: post
+title:  2022 동계 학술 발표회
+date:   2022-02-09 15:01:35 +0300
+image:  winter_2022.jpg
+tags:   학회
+---
+
+2022-02-09에 진행된 2022년도 한국통신학회 동계 종합 학술 발표회에 참석했습니다.
+
+이번에 진행된 학술 대회에서는 RIS(Reconfigurable Intelligent Surface), 인공지능과 관련한 발표 위주로 청강했습니다.
