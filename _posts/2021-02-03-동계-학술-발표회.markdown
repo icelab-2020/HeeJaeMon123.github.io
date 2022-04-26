@@ -2,20 +2,11 @@
 layout: post
 title:  2021 동계 학술 발표회
 date:   2021-02-03 #15:01:35 +0300
-# image:  winter_2021.jpg
+image:  winter_2021.jpg
 tags:   Style
 ---
 
+2021-02-03에 진행된 2021년도 한국통신학회 동계종합학술발표회에 참석했습니다.
+박희재 학부 연구생은 **Beyond 5G와 6G를 위한 기계 학습과 인공지능의 응용 분야** 논문을 발표했고, 위성률 학부 연구생은 **확장현실 응용을 위한 테라헤르츠  기술의 도전 과제** 논문을 발표했습니다.
 
-## Are you crazy? I can't swallow that.
-
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
-
-We need rest. The spirit is willing, but the flesh is spongy and bruised.
-Fry, we have a crate to deliver.
-Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-Why not indeed!
-
-
-![]({{ site.baseurl }}/images/winter_2021.jpg)
 
