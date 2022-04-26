@@ -18,7 +18,7 @@ permalink: /01_members/
 
 |    |  <img width=400/>  |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/tri.png){: width="184" height="248"} | <b><span style="font-size:250%">응웬트리하이(Nguyen Tri Hai)</span></b><br><br> + Department of Computer Science & Engineering   <br> + Seoul National University of Science and Technology (Seoultech)  <br> + **E-MAIL**   haint93@seoultech.ac.kr |
+| ![iot]({{site.baseurl}}/images/tri.png){: width="184" height="248"} | <b><span style="font-size:250%">응웬트리하이(Nguyen Tri Hai)</span></b><br><br> + Department of Computer Science & Engineering   <br> + Seoul National University of Science and Technology (Seoultech)  <br> + **E-MAIL** :  haint93@seoultech.ac.kr |
 
 <hr style="border:2px solid gray">
 
@@ -26,7 +26,7 @@ permalink: /01_members/
 
 |    |    |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/hj.jpg){: width="160"; height"195"} | <b><span style="font-size:200%">박희재(Heejae Park)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + **E-MAIL**   prkhj98@naver.com |
+| ![iot]({{site.baseurl}}/images/hj.jpg){: width="160"; height"195"} | <b><span style="font-size:200%">박희재(Heejae Park)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + **E-MAIL** :  prkhj98@naver.com |
 
 <hr style="border:2px solid gray">
 
@@ -34,7 +34,7 @@ permalink: /01_members/
 
 |    |   |    |    |
 |:---|:---|:---|:---|
-| ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">위성률(Seongryool Wee)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + **E-MAIL**   fbfbf1@naver.com | ![iot]({{site.baseurl}}/images/jk.jpg){: width="165" height="235"} |  <b><span style="font-size:250%">김주안(Juan Kim)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + **E-MAIL**   rlawndks0423@naver.com |
+| ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">위성률(Seongryool Wee)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + **E-MAIL** : fbfbf1@naver.com | ![iot]({{site.baseurl}}/images/jk.jpg){: width="165" height="235"} |  <b><span style="font-size:250%">김주안(Juan Kim)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Computer Science & Engineering  <br> + **E-MAIL** : rlawndks0423@naver.com |
 
 
 
