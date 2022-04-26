@@ -10,7 +10,7 @@ permalink: /01_members/
 
 | <img width=400/>   |    |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/lh.jpg){: width="184" height="248"} | <b><span style="font-size:250%">박래혁(Heejae Park)</span></b><br><br> Department of Computer Science and Engineering  <br>  Seoul National University of Science and Technology (Seoultech) <br>  232 Gongneung-ro, Nowon-gu, Seoul, 139-743, Korea <br> Tel: +82-2-970-6703  <br>  E-mail: lhpark at seoultech.ac.kr |
+| ![iot]({{site.baseurl}}/images/lh.jpg){: width="184" height="248"} | <b><span style="font-size:250%">박래혁(Heejae Park)</span></b><br><br> Department of Computer Science and Engineering  <br>  Seoul National University of Science and Technology (Seoultech) <br>  232 Gongneung-ro, Nowon-gu, Seoul, 139-743, Korea <br> Tel: +82-2-970-6703  <br>  *E-mail*: lhpark at seoultech.ac.kr |
 
 <hr style="border:2px solid gray">
 
